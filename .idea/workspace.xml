@@ -4,23 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b438b264-012d-45a3-a805-fdd539e938b2" name="Changes" comment="first commit for git demo">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Core-java-5.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practice_java_file_forth.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practice_java_file_third.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/demo/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/demo/Practice_java_file.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/demo/Practice_java_file_fifth.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/demo/Practice_java_file_second.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/git/Demogit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/variables/Demo_singelvariable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/variables/Demovariable.java" afterDir="false" />
-    </list>
+    <list default="true" id="b438b264-012d-45a3-a805-fdd539e938b2" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -120,6 +104,14 @@
       <option name="presentableId" value="Default" />
       <updated>1679858552362</updated>
     </task>
+    <task id="LOCAL-00001" summary="first commit for git demo">
+      <created>1680454222073</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1680454222073</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
