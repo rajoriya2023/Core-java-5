@@ -52,7 +52,7 @@ public class Demovariable {
                 String name="raman";
                 int number =350;
                 double wage =350;
-                System.out.println("printing name:" + name + " printing variable:"+number +" printing variable:" +wage);
+                System.out.println("printing name:" + name + " printing variable:"+number +" printing variable:..." +wage)
 
 
 
