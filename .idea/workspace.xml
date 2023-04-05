@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b438b264-012d-45a3-a805-fdd539e938b2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Assignment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,7 +41,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;terminal&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Assignment">
+  <component name="RunManager" selected="Application.Demoifelsecondition">
     <configuration name="Assignment" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Assignment" />
       <module name="Core-java-5" />
@@ -62,12 +62,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demovariable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="variables.Demovariable" />
+    <configuration name="Demoifcondition" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="conditional_statement.Demoifcondition" />
       <module name="Core-java-5" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="variables.*" />
+          <option name="PATTERN" value="conditional_statement.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -75,9 +75,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Practice_java_file" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="demo.Practice_java_file" />
+    <configuration name="Demoifelsecondition" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="conditional_statement.Demoifelsecondition" />
       <module name="Core-java-5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="conditional_statement.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -97,11 +103,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Demoifelsecondition" />
+        <item itemvalue="Application.Demoifcondition" />
         <item itemvalue="Application.Assignment" />
         <item itemvalue="Application.Practice_java_file_second" />
         <item itemvalue="Application.Demo_singelvariable" />
-        <item itemvalue="Application.Demovariable" />
-        <item itemvalue="Application.Practice_java_file" />
       </list>
     </recent_temporary>
   </component>
@@ -121,12 +127,27 @@
       <option name="project" value="LOCAL" />
       <updated>1680454222073</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="3rd apirl assignment">
+      <created>1680550256794</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1680550256794</updated>
+    </task>
+    <task id="LOCAL-00003" summary="3rd apirl assignment">
+      <created>1680704118750</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1680704118750</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first commit for git demo" />
-    <option name="LAST_COMMIT_MESSAGE" value="first commit for git demo" />
+    <MESSAGE value="3rd apirl assignment" />
+    <option name="LAST_COMMIT_MESSAGE" value="3rd apirl assignment" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
