@@ -6,5 +6,6 @@ public class Demo_singelvariable {
         int age=32;
         double percentage=67.5;
         System.out.println("printing variable : " +name +" printing variable : "+age +"printing variable : "+percentage);
+        System.out.println("why we use git" );
     }
 }
